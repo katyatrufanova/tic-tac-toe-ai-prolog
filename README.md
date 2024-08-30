@@ -57,9 +57,9 @@ For detailed instructions, please refer to the User Guide.
 
 The AI opponent uses the Min-Max algorithm with Alpha-Beta pruning to make optimal decisions. This approach allows the AI to:
 
-    - Explore the game tree efficiently
-    - Evaluate potential future states
-    - Make decisions that maximize its chances of winning while minimizing the opponent's opportunities
+- Explore the game tree efficiently
+- Evaluate potential future states
+- Make decisions that maximize its chances of winning while minimizing the opponent's opportunities
 
 The implementation is highly optimized, allowing for deep tree searches even on resource-constrained systems.
 
